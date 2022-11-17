@@ -8,8 +8,8 @@ Here you can also find an Index if you wish to have a quick overview
 
 ## Index
 
-- [Easy]()
-  - [Validation]()
+- [Easy](https://github.com/AlexadeZ17/HTB-writeups/tree/main/easy/)
+  - [Validation](https://github.com/AlexadeZ17/HTB-writeups/tree/main/easy/Validation)
 - [Medium]()
   - [Meta]()
 - [Hard]()
