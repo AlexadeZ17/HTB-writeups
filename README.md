@@ -10,6 +10,7 @@ Here you can also find an Index if you wish to have a quick overview
 
 - [Easy](https://github.com/AlexadeZ17/HTB-writeups/tree/main/easy/)
   - [Validation](https://github.com/AlexadeZ17/HTB-writeups/tree/main/easy/Validation)
+  - [Horizontall](https://github.com/AlexadeZ17/HTB-writeups/tree/main/easy/Horizontal)
 - [Medium]()
   - [Meta]()
 - [Hard]()
